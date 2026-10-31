@@ -11,7 +11,7 @@ jobs:
       contents: read
       pull-requests: write
       actions: write
-    uses: ESchuderer/repo-standards/.github/workflows/release-weekly.yml@f469dac497f245f03314822c3f36d5ce63de8425 # v0.1.0
+    uses: ESchuderer/repo-standards/.github/workflows/release-weekly.yml@c219314cbff836df46aeb702814482fd94a9b8d6 # main
     with:
       app-client-id: ${{ vars.RELEASE_APP_CLIENT_ID }}
     secrets:
