@@ -19,8 +19,8 @@
     "check": "npm run lint && npm run knip && npm run dup"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.6.2",
+    "@biomejs/biome": "2.6.4",
     "jscpd": "5.4.2",
-    "knip": "6.42.1"
+    "knip": "6.44.0"
   }
 }
